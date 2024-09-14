@@ -1,5 +1,14 @@
 1. set up the github (repo)
 a. new environment ( conda create -p venv python==3.10 -y)
+git init
+git add (filename) or . to add all files
+git commit -m "message"
+git branch -m Main
+git remote add origin SSH
+git remote -V
+git status
+git push -u origin main
+
 b. setup.py
 c. requirements.txt
 

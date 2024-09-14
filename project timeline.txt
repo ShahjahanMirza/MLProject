@@ -1,0 +1,6 @@
+1. set up the github (repo)
+a. new environment ( conda create -p venv python==3.10 -y)
+b. setup.py
+c. requirements.txt
+
+2. 
